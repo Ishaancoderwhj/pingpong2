@@ -1,0 +1,16 @@
+body
+{
+  background-size:cover;
+}
+
+.heading{
+    width:100%;
+}
+#btnmodal{
+  float:right;
+  border:9px dotted greenyellow;
+}
+ol{
+  font-family:comic;
+  font-size:20px;
+}
